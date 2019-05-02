@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/OS3.dir/ex31.c.o CMakeFiles/OS3.dir/ex32.c.o  -o OS3 
